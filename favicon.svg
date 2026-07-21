@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Little Sprouts">
+  <circle cx="32" cy="32" r="32" fill="#3d8b3d"/>
+  <circle cx="18" cy="18" r="10" fill="#ffd54f"/>
+  <path d="M32 48c-8 0-14-6-14-14 0-4 2-8 5-10 2 6 6 10 9 10s7-4 9-10c3 2 5 6 5 10 0 8-6 14-14 14z" fill="#8fd48f"/>
+  <path d="M32 20v8M28 24h8" stroke="#2c5e2c" stroke-width="2" stroke-linecap="round"/>
+</svg>
