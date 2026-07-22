@@ -174,8 +174,8 @@ a:hover {
 
 .logo-img {
   display: block;
-  width: clamp(200px, 24vw, 280px);
-  max-width: 280px;
+  width: clamp(240px, 28vw, 340px);
+  max-width: 340px;
   height: auto;
   object-fit: contain;
   filter: brightness(1.7) contrast(1.05);
@@ -1457,9 +1457,10 @@ a.contact-method-large:hover {
 }
 
 .footer-contact p {
-  font-size: clamp(0.75rem, 2vw, 0.85rem);
+  font-size: clamp(0.8rem, 2vw, 0.95rem);
   opacity: 0.8;
   margin-top: 0.25rem;
+  white-space: nowrap;
 }
 
 .footer-bottom {
