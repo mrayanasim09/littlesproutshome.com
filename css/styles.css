@@ -1248,6 +1248,7 @@ a.contact-method-large:hover {
   font-weight: 700;
   color: var(--ink);
   white-space: nowrap;
+  font-size: clamp(0.82rem, 2vw, 0.92rem);
 }
 
 .contact-form {
