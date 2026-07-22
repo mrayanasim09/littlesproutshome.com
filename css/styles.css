@@ -157,7 +157,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.75rem 0;
+  padding: 0.5rem 0;
   gap: 1rem;
   margin: 0;
 }
@@ -173,8 +173,8 @@ a:hover {
 
 .logo-img {
   display: block;
-  width: clamp(180px, 20vw, 240px);
-  max-width: 240px;
+  width: clamp(140px, 18vw, 200px);
+  max-width: 200px;
   height: auto;
   object-fit: contain;
 }
@@ -1466,8 +1466,8 @@ a.contact-method-large:hover {
   }
 
   .logo-img {
-    width: 160px;
-    max-width: 160px;
+    width: 140px;
+    max-width: 140px;
     height: auto;
   }
 
