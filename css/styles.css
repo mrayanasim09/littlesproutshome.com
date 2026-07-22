@@ -1248,8 +1248,6 @@ a.contact-method-large:hover {
   font-weight: 700;
   color: var(--ink);
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .contact-form {
