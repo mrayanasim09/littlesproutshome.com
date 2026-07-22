@@ -918,7 +918,7 @@ a:hover {
 
 .info-box h3 {
   font-family: var(--font-display);
-  font-size: 0.95rem;
+  font-size: clamp(0.85rem, 2.5vw, 0.95rem);
   font-weight: 700;
   color: var(--sky-deep);
   margin-bottom: 0.5rem;
@@ -928,6 +928,7 @@ a:hover {
   font-style: normal;
   color: var(--ink-muted);
   line-height: 1.5;
+  font-size: clamp(0.8rem, 2.5vw, 0.9rem);
 }
 
 .info-box-accent {
