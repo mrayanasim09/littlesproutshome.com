@@ -1456,9 +1456,10 @@ a.contact-method-large:hover {
 }
 
 .footer-contact p {
-  font-size: clamp(0.8rem, 2vw, 0.95rem);
+  font-size: clamp(0.82rem, 2vw, 0.92rem);
   opacity: 0.8;
   margin-top: 0.25rem;
+  white-space: nowrap;
 }
 
 .footer-bottom {
