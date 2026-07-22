@@ -1441,6 +1441,7 @@ a.contact-method-large:hover {
   color: rgba(255, 255, 255, 0.9);
   font-weight: 600;
   font-size: clamp(0.82rem, 2vw, 0.92rem);
+  white-space: nowrap;
 }
 
 .footer-nav a:hover,
