@@ -178,7 +178,7 @@ a:hover {
   max-width: 280px;
   height: auto;
   object-fit: contain;
-  filter: brightness(1.2) contrast(1.05);
+  filter: brightness(1.7) contrast(1.05);
 }
 
 .header-cta {
@@ -365,6 +365,13 @@ a:hover {
 .page-hero p {
   color: var(--ink-muted);
   max-width: 520px;
+}
+
+.page-hero-license {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink-muted);
 }
 
 .section-license {
